@@ -93,6 +93,16 @@ A: 6-4
 
 
 
+Q: How many kills did Chad have on his CoD Mobile winning game?
+
+A: 7
+
+
+
+Q: How many times did Chad's keyboard become visible within the Amazon app on 12/24/2023?
+
+A: 2
+
 
 
 
@@ -174,3 +184,9 @@ A: 8
 Q: What is the default Internet Browser?
 
 A: Chrome
+
+
+
+Q: What was the new score achieved on the video game Rocco watched on Youtube?
+
+A: 5187
