@@ -108,3 +108,21 @@ A: this can not be this simple
 
 
 Q:
+
+
+
+---
+
+ANDROID
+
+
+
+Q: On what platform did Rocco share his Call of Duty Username?
+
+A:  Twitter
+
+
+
+Q: What did Rocco search in the App Store to download the app used to hide photos?
+
+A: Calculator Vault
