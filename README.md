@@ -26,3 +26,85 @@ Tools Leveraged:
 - CyberChef
 
 ---
+
+Q: On what date did Rocco and Chadwick first meet in person according to their conversations? YYYY-MM-DD format
+
+A: 2023-12-17
+
+
+
+Q: What subreddit was visited in a browser?
+
+A: /r/Twitch
+
+
+
+Q:Chad seemed to be searching for pain relief medicine in a store, how much did it cost?
+
+A: 10.99
+
+Q: What is the guild ID of the discord server Chad was in?
+
+A: 136986169563938816
+
+
+
+Q: What is the current build version?
+
+A: 20F75
+
+
+
+Q: How many days did it take Chad to be warned about his Data Usage?
+
+A: 18 
+
+
+
+Q: What outdoor activity store did Chadwick Visit?
+
+A:  
+
+
+
+Q: What is the timestamp of the message Chad sent to Rocco but was never recieved? YYYY-MM-DD HH:MM:SS UTC
+
+A: 2023-12-21 06:29:36
+
+
+
+Q: What was the name of the first emoji that was sent to Susan?
+
+A: Potted Plant
+
+
+
+Q: What outdoor activity store did Chadwick Visit?
+
+A: Christy Sports
+
+
+
+Q: What was the final score of the hockey game Chad went to? (home-away)
+
+A: 6-4
+
+[colrado avelanche game 12-21-2023 - Search (bing.com)](https://www.bing.com/search?q=colrado+avelanche+game+12-21-2023&qs=n&form=QBRE&sp=-1&lq=0&pq=colrado+avelanche+game+12-21-2023&sc=6-33&sk=&cvid=A69CC000A9AA4B6DBD163365E1356F7D&ghsh=0&ghacc=0&ghpl=)
+
+
+
+
+
+
+
+---
+
+ROT 28
+
+Q: rfgq ayl lmr zc rfgq qgknjc
+
+A: this can not be this simple
+
+
+
+Q:
