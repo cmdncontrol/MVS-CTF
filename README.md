@@ -156,3 +156,21 @@ A: roccotsachs@gmail.com
 Q: What was Rocco's Twitter account name?
 
 A: RoccoSachs96775
+
+
+
+Q: What Southern state's sports team did Rocco search up? (STATE ONLY)
+
+A: Louisiana
+
+
+
+Q: How many messages were sent from Rocco in Twitter Direct Messages?
+
+A: 8
+
+
+
+Q: What is the default Internet Browser?
+
+A: Chrome
