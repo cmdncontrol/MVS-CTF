@@ -144,3 +144,15 @@ A: Money
 Q: What is the most recent score in Subway Surfer
 
 A: 1899
+
+
+
+Q: What email is associated with the device?
+
+A: roccotsachs@gmail.com
+
+
+
+Q: What was Rocco's Twitter account name?
+
+A: RoccoSachs96775
