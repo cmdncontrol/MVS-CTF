@@ -111,7 +111,21 @@ A: 968
 
 
 
+Q:What is the ChatGPT userID associated with [chadwickmr95@gmail.com](mailto:chadwickmr95@gmail.com)
+
 A: user-xurgQ0xumvrujH5ESG17Yhcw
+
+
+
+Q: What is the name of Chad's streaming channel?
+
+A: Chadwich Games
+
+
+
+Q: At what time did Chadwick get annoyed at MYAI? YYYY-MM-DD HH:MM:SS UTC
+
+A: 
 
 
 
