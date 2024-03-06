@@ -105,6 +105,14 @@ A: 2
 
 
 
+Q: How many steps did Chad take on 12/3/2023?
+
+A: 968
+
+
+
+A: user-xurgQ0xumvrujH5ESG17Yhcw
+
 
 
 ---
