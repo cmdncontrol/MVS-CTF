@@ -126,3 +126,21 @@ A:  Twitter
 Q: What did Rocco search in the App Store to download the app used to hide photos?
 
 A: Calculator Vault
+
+
+
+Q: According to exCHANGEs in discord with Chad, what did Chad want back from Rocco?
+
+A: Money
+
+
+
+Q: According to exCHANGEs in discord with Chad, what did Chad want back from Rocco?
+
+A: Money
+
+
+
+Q: What is the most recent score in Subway Surfer
+
+A: 1899
