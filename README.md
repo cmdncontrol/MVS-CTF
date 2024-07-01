@@ -31,13 +31,9 @@ Q: On what date did Rocco and Chadwick first meet in person according to their c
 
 A: 2023-12-17
 
-
-
 Q: What subreddit was visited in a browser?
 
 A: /r/Twitch
-
-
 
 Q:Chad seemed to be searching for pain relief medicine in a store, how much did it cost?
 
@@ -47,43 +43,29 @@ Q: What is the guild ID of the discord server Chad was in?
 
 A: 136986169563938816
 
-
-
 Q: What is the current build version?
 
 A: 20F75
-
-
 
 Q: How many days did it take Chad to be warned about his Data Usage?
 
 A: 18 
 
-
-
 Q: What outdoor activity store did Chadwick Visit?
 
 A:  
-
-
 
 Q: What is the timestamp of the message Chad sent to Rocco but was never recieved? YYYY-MM-DD HH:MM:SS UTC
 
 A: 2023-12-21 06:29:36
 
-
-
 Q: What was the name of the first emoji that was sent to Susan?
 
 A: Potted Plant
 
-
-
 Q: What outdoor activity store did Chadwick Visit?
 
 A: Christy Sports
-
-
 
 Q: What was the final score of the hockey game Chad went to? (home-away)
 
@@ -91,47 +73,29 @@ A: 6-4
 
 [colrado avelanche game 12-21-2023 - Search (bing.com)](https://www.bing.com/search?q=colrado+avelanche+game+12-21-2023&qs=n&form=QBRE&sp=-1&lq=0&pq=colrado+avelanche+game+12-21-2023&sc=6-33&sk=&cvid=A69CC000A9AA4B6DBD163365E1356F7D&ghsh=0&ghacc=0&ghpl=)
 
-
-
 Q: How many kills did Chad have on his CoD Mobile winning game?
 
 A: 7
-
-
 
 Q: How many times did Chad's keyboard become visible within the Amazon app on 12/24/2023?
 
 A: 2
 
-
-
 Q: How many steps did Chad take on 12/3/2023?
 
 A: 968
-
-
 
 Q:What is the ChatGPT userID associated with [chadwickmr95@gmail.com](mailto:chadwickmr95@gmail.com)
 
 A: user-xurgQ0xumvrujH5ESG17Yhcw
 
-
-
 Q: What is the name of Chad's streaming channel?
 
 A: Chadwich Games
 
-
-
 Q: At what time did Chadwick get annoyed at MYAI? YYYY-MM-DD HH:MM:SS UTC
 
 A: 2023-12-26 23:27:45
-
-
-
-
-
-
 
 ---
 
@@ -141,77 +105,51 @@ Q: rfgq ayl lmr zc rfgq qgknjc
 
 A: this can not be this simple
 
-
-
 Q:
-
-
 
 ---
 
 ANDROID
 
-
-
 Q: On what platform did Rocco share his Call of Duty Username?
 
 A:  Twitter
-
-
 
 Q: What did Rocco search in the App Store to download the app used to hide photos?
 
 A: Calculator Vault
 
-
-
 Q: According to exCHANGEs in discord with Chad, what did Chad want back from Rocco?
 
 A: Money
 
-
-
 Q: According to exCHANGEs in discord with Chad, what did Chad want back from Rocco?
 
 A: Money
-
-
 
 Q: What is the most recent score in Subway Surfer
 
 A: 1899
 
-
-
 Q: What email is associated with the device?
 
 A: roccotsachs@gmail.com
-
-
 
 Q: What was Rocco's Twitter account name?
 
 A: RoccoSachs96775
 
-
-
 Q: What Southern state's sports team did Rocco search up? (STATE ONLY)
 
 A: Louisiana
-
-
 
 Q: How many messages were sent from Rocco in Twitter Direct Messages?
 
 A: 8
 
-
-
 Q: What is the default Internet Browser?
 
 A: Chrome
-
-
 
 Q: What was the new score achieved on the video game Rocco watched on Youtube?
 
